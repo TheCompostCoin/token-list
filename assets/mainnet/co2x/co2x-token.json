@@ -1,5 +1,10 @@
 {
+    "address": "4ZmWbCmfwVYLRXi4h2LFJSirNwTBaxFDBWy3wJQyzYwh",
     "name": "CO2 Exchange",
     "symbol": "CO2X",
-    "uri": "https://raw.githubusercontent.com/TheCompostCoin/my-token-images/refs/heads/main/CO2X.jpg"
+    "logo": "https://raw.githubusercontent.com/TheCompostCoin/my-token-images/refs/heads/main/CO2X.jpg",
+    "link": "https://www.thecompostcoin.com/co2x",
+    "discord": "https://discord.gg/nCBg2Hhbr8",
+    "telegram": "https://t.me/CompostCoin",
+    "x": "https://x.com/TheCompostCoin"
 }
